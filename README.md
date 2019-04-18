@@ -1,7 +1,5 @@
 # CutiePi board V1.0
-
-This is the CutiePi board hardware design files, based on Pi Foundation's 
-[Compute Module IO board](https://github.com/raspberrypi/documentation/blob/master/hardware/computemodule/designfiles.md) and released under the same [modified BSD license](LICENSE.txt). 
+These are the design files for a custom PCB `CutiePi board` that make use of the Raspberry Pi Compute Module. 
 
 ![](https://i.imgur.com/61UcIxL.jpg) 
 
@@ -12,3 +10,9 @@ This is the CutiePi board hardware design files, based on Pi Foundation's
 - Bill of Materials [BOM-20190325.xlsx](BOM-20190325.xlsx)
 - PDF of schematic [SCH_20190325.pdf](SCH_20190325.pdf)
 - Gerber files 
+
+## Copyright and License 
+Copyright (c) 2019 Zhang "Iron Pillar" Hogan. All rights reserved.
+
+Part of CutiePi board's design is based on Pi Foundation's 
+[Compute Module IO board](https://github.com/raspberrypi/documentation/blob/master/hardware/computemodule/designfiles.md), and we are releasing it under the same [modified BSD license](LICENSE.txt). 
