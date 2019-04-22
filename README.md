@@ -3,6 +3,8 @@ These are the design files for a custom PCB `CutiePi board` that make use of the
 
 ![](https://i.imgur.com/61UcIxL.jpg) 
 
+#### ⚠️ Work in Progress: This project is in early stage and still under active development. 
+
 ## Contents  
 
 - Cadence OrCAD Schematic [CUTIEPI_20190322.DSN](CUTIEPI_20190322.DSN)
