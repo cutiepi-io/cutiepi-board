@@ -3,7 +3,18 @@ These are the design files for a custom PCB `CutiePi board` that make use of the
 
 ![](https://i.imgur.com/61UcIxL.jpg) 
 
-#### ⚠️ Work in Progress: This project is in early stage and still under active development. 
+#### This project is in early stage and still under active development. 
+
+Verified functions are: 
+
+- [x] MCU  
+- [x] HDMI 
+- [x] WiFi 
+- [x] USB 
+- [ ] MIPI DSI (enablement in progress) 
+- [ ] Amplifier 
+- [ ] GPIO pins 
+- [ ] Gyro 
 
 ## Contents  
 
