@@ -11,7 +11,7 @@ Verified functions are:
 - [x] HDMI 
 - [x] WiFi 
 - [x] USB 
-- [ ] MIPI DSI (enablement in progress) 
+- [x] MIPI DSI  
 - [ ] Amplifier 
 - [ ] GPIO pins 
 - [ ] Gyro 
