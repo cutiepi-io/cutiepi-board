@@ -14,7 +14,7 @@ Verified functions are:
 - [x] MIPI DSI  
 - [ ] Amplifier 
 - [ ] GPIO pins 
-- [ ] Gyro 
+- [x] Gyro 
 
 ## Contents  
 
