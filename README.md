@@ -29,3 +29,5 @@ Copyright (c) 2019 Zhang "Iron Pillar" Hogan. All rights reserved.
 
 Part of CutiePi board's design is based on Pi Foundation's 
 [Compute Module IO board](https://github.com/raspberrypi/documentation/blob/master/hardware/computemodule/designfiles.md), and we are releasing it under the same [modified BSD license](LICENSE.txt). 
+
+All documentation is licensed under a Creative Commons BY-SA 4.0 international license. 
