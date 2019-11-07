@@ -2,7 +2,7 @@
 
 This repository provides a custom carrier board designed for the open source CutiePi tablet project, to make use of the Raspberry Pi Compute Module.
 
-![](https://i.imgur.com/wgrgfVW.jpg) 
+![](https://i.imgur.com/7mD3y6R.jpg) 
 
 #### This project is in early stage and still under active development. 
 
