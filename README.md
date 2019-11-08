@@ -1,27 +1,17 @@
-# CutiePi board V1.0
-These are the design files for a custom PCB `CutiePi board` that make use of the Raspberry Pi Compute Module. 
+# CutiePi board V1.1
 
-![](https://i.imgur.com/61UcIxL.jpg) 
+This repository provides a custom carrier board designed for the open source CutiePi tablet project, to make use of the Raspberry Pi Compute Module.
+
+![](https://i.imgur.com/RGQlDZ0.jpg) 
 
 #### This project is in early stage and still under active development. 
 
-Verified functions are: 
-
-- [x] MCU  
-- [x] HDMI 
-- [x] WiFi 
-- [x] USB 
-- [x] MIPI DSI  
-- [ ] Amplifier 
-- [ ] GPIO pins 
-- [x] Gyro 
-
 ## Contents  
 
-- Cadence OrCAD Schematic [CUTIEPI_20190322.DSN](CUTIEPI_20190322.DSN)
-- Cadence OrCAD/Allegro PCB file [CUTIEPI.brd](CUTIEPI_PCB/CUTIEPI.brd)
-- Bill of Materials [BOM-20190325.xlsx](BOM-20190325.xlsx)
-- PDF of schematic [SCH_20190325.pdf](SCH_20190325.pdf)
+- Cadence OrCAD Schematic [CutiePi_V1.1-20191018.DSN](CutiePi_V1.1-20191018.DSN)
+- Cadence OrCAD/Allegro PCB file [CutiePi_V1_1.brd](CutiePi_V1_1_PCB/CutiePi_V1_1.brd)
+- Bill of Materials [CutiePi_V1.1_BOM-20191018.xlsx](CutiePi_V1.1_BOM-20191018.xlsx)
+- PDF of schematic [CutiePi_V1.1_schematic.pdf](CutiePi_V1.1_schematic.pdf)
 - Gerber files 
 
 ## Copyright and License 
