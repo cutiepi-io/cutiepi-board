@@ -15,7 +15,7 @@ This repository provides a custom carrier board designed for the open source Cut
 - Gerber files 
 
 ## Copyright and License 
-Copyright (c) 2019 Zhang "Iron Pillar" Hogan. All rights reserved.
+Copyright (c) 2019-2020 Zhang "Iron Pillar" Hogan. All rights reserved.
 
 Part of CutiePi board's design is based on Pi Foundation's 
 [Compute Module IO board](https://github.com/raspberrypi/documentation/blob/master/hardware/computemodule/designfiles.md), and we are releasing it under the same [modified BSD license](LICENSE.txt). 
