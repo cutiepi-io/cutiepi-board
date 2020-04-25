@@ -1,17 +1,17 @@
-# CutiePi board V1.1
+# CutiePi board V1.2
 
 This repository provides a custom carrier board designed for the open source CutiePi tablet project, to make use of the Raspberry Pi Compute Module.
 
-![](https://i.imgur.com/RGQlDZ0.jpg) 
+![](https://i.imgur.com/QHOaD8G.jpg) 
 
 #### This project is in early stage and still under active development. 
 
 ## Contents  
 
-- Cadence OrCAD Schematic [CutiePi_V1.1-20191018.DSN](CutiePi_V1.1-20191018.DSN)
-- Cadence OrCAD/Allegro PCB file [CutiePi_V1_1.brd](CutiePi_V1_1_PCB/CutiePi_V1_1.brd)
-- Bill of Materials [CutiePi_V1.1_BOM-20191018.xlsx](CutiePi_V1.1_BOM-20191018.xlsx)
-- PDF of schematic [CutiePi_V1.1_schematic.pdf](CutiePi_V1.1_schematic.pdf)
+- Cadence OrCAD Schematic [CutiePi_V1.2-20200310.DSN](CutiePi_V1.2-20200310.DSN)
+- Cadence OrCAD/Allegro PCB file [CutiePi_V1_2.brd](CutiePi_V1_2_PCB/CutiePi_V1_2.brd)
+- Bill of Materials [CutiePi_V1.2_BOM-20200310.xlsx](CutiePi_V1.2_BOM-20200310.xlsx)
+- PDF of schematic [CutiePi_V1.2_schematic.pdf](CutiePi_V1.2_schematic.pdf)
 - Gerber files 
 
 ## Copyright and License 
