@@ -3,7 +3,7 @@
 This repository provides a custom carrier board designed for the open source CutiePi tablet project, to make use of the Raspberry Pi Compute Module.
 CutiePi board vesion 2 is a Raspberry Pi Compute Module 4 compatible design. 
 
-![](https://i.imgur.com/QIJ5ph3.png) 
+![](https://i.imgur.com/iEHJjWj.png) 
 
 #### This project is still under active development. 
 
