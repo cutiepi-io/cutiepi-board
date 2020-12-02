@@ -10,7 +10,7 @@ CutiePi board vesion 2 is a Raspberry Pi Compute Module 4 compatible design.
 ## Contents  
 
 - Cadence OrCAD Schematic [CutiePi_V2.0-20201123.DSN](CutiePi_V2.0-20201123.DSN)
-- Cadence OrCAD/Allegro PCB file [CutiePi_V2_0_1126.brd](CutiePi_V2_0_TapeOut/CutiePi_V2_0_PCB/CutiePi_V2_0.brd)
+- Cadence OrCAD/Allegro PCB file [CutiePi_V2_0.brd](CutiePi_V2_0_TapeOut/CutiePi_V2_0_PCB/CutiePi_V2_0.brd)
 - Bill of Materials [CutiePi_V2.0_BOM-20201119.xlsx](CutiePi_V2.0_BOM-20201119.xlsx)
 - PDF of schematic [CutiePi_V2.0_schematic-20201116.pdf](CutiePi_V2.0_schematic-20201116.pdf)
 
