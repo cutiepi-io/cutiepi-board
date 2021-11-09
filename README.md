@@ -8,7 +8,7 @@ This repository provides a custom carrier board designed for the open source Cut
 
 - Cadence OrCAD Schematic [CutiePi_V2.3-20210409.DSN](CutiePi_V2.3-20210409.DSN)
 - Cadence OrCAD/Allegro PCB file [CutiePi_V2_3.brd](CutiePi_V2_3_TapeOut/CutiePi_V2_3_PCB/CutiePi_V2_3.brd)
-- Bill of Materials [CutiePi_V2.3_BOM-20210414.xlsx](CutiePi_V2.3_BOM-20210414.xlsx)
+- Bill of Materials [CutiePi_V2.3_BOM-20210802.xlsx](CutiePi_V2.3_BOM-20210802.xlsx)
 - PDF of schematic [CutiePi_V2.3_schematic-20210414.pdf](CutiePi_V2.3_schematic-20210414.pdf)
 
 ## Copyright and License
